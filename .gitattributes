@@ -1,0 +1,2 @@
+FFmpeg/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+publish/AudioConverter.exe filter=lfs diff=lfs merge=lfs -text

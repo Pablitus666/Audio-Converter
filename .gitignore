@@ -1,0 +1,16 @@
+## Ignore Visual Studio temporary files, build results, and caches
+/bin
+/obj
+/.vs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider files
+.idea/
+*.csproj.DotSettings
+*.sln.DotSettings
+
+# Ignore VS Code files
+.vscode/
