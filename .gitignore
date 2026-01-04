@@ -13,4 +13,21 @@
 *.sln.DotSettings
 
 # Ignore VS Code files
+
 .vscode/
+
+
+
+# Ignore archives
+
+*.rar
+
+*.zip
+
+
+
+# Ignore publish folder
+
+/publish
+
+
