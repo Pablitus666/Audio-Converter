@@ -40,7 +40,7 @@ El proyecto está diseñado como una herramienta **robusta para uso real**, con 
 * 📦 FFmpeg **embebido** (no requiere instalación externa)
 
 ---
-📥 Formatos de entrada soportados (Actualizado)
+📥 Formatos de entrada soportados 
 
 El convertidor admite una amplia variedad de formatos de audio y video como entrada, gracias al uso del motor FFmpeg. A continuación, se presenta una lista representativa de los formatos más comunes compatibles.
 
@@ -251,3 +251,18 @@ Proyecto creado con enfoque en **calidad, estabilidad y buenas prácticas**.
 *   **Contacto:** pharmakoz@gmail.com
 
 ---
+
+⚖️ Nota legal sobre FFmpeg
+
+Este software utiliza FFmpeg, un proyecto de software de código abierto desarrollado por el FFmpeg Project, para la conversión y procesamiento de archivos de audio.
+
+FFmpeg es un proyecto independiente y no está afiliado ni respaldado oficialmente por el autor de esta aplicación.
+Todos los derechos sobre FFmpeg pertenecen a sus respectivos autores.
+
+FFmpeg se distribuye bajo los términos de la licencia LGPL 2.1 (o GPL, según la configuración y compilación del binario utilizado).
+El binario de FFmpeg incluido se utiliza únicamente como motor de conversión y no modifica su código fuente.
+
+Para más información sobre FFmpeg y sus licencias, visite el sitio oficial:
+https://ffmpeg.org
+
+El usuario final es responsable de cumplir con las leyes locales aplicables y los términos de licencia correspondientes al uso de este software.
