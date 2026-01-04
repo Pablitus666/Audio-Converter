@@ -254,6 +254,8 @@ Proyecto creado con enfoque en **calidad, estabilidad y buenas prácticas**.
 
 ⚖️ Nota legal sobre FFmpeg
 
+---
+
 Este software utiliza FFmpeg, un proyecto de software de código abierto desarrollado por el FFmpeg Project, para la conversión y procesamiento de archivos de audio.
 
 FFmpeg es un proyecto independiente y no está afiliado ni respaldado oficialmente por el autor de esta aplicación.
