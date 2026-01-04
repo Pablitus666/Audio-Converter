@@ -40,6 +40,54 @@ El proyecto está diseñado como una herramienta **robusta para uso real**, con 
 * 📦 FFmpeg **embebido** (no requiere instalación externa)
 
 ---
+📥 Formatos de entrada soportados (Actualizado)
+
+El convertidor admite una amplia variedad de formatos de audio y video como entrada, gracias al uso del motor FFmpeg. A continuación, se presenta una lista representativa de los formatos más comunes compatibles.
+
+🎧 Formatos de audio (entrada)
+
+MP3 — MPEG-1 Audio Layer III
+
+AAC / M4A — Advanced Audio Coding (frecuente en contenedores .m4a)
+
+FLAC — Free Lossless Audio Codec
+
+WAV — Waveform Audio File Format
+
+OGG / Vorbis — Contenedor OGG con códec Vorbis
+
+WMA — Windows Media Audio
+
+AIFF — Audio Interchange File Format
+
+ALAC / M4A — Apple Lossless Audio Codec
+
+Opus — Códec de audio moderno, eficiente y de alta calidad
+
+🎬 Formatos de video (extracción de audio)
+
+Estos formatos permiten extraer y convertir la pista de audio contenida en archivos de video:
+
+MP4 — MPEG-4 Part 14 (audio AAC, ALAC, MP3, etc.)
+
+MKV (Matroska) — Contenedor flexible con múltiples códecs
+
+AVI — Audio Video Interleave
+
+MOV — QuickTime File Format
+
+WMV — Windows Media Video
+
+FLV — Flash Video
+
+WEBM — WebM (audio Vorbis u Opus)
+
+ℹ️ Nota técnica
+
+La compatibilidad real puede variar según el códec específico utilizado dentro del archivo.
+En general, cualquier formato reconocido por FFmpeg debería ser procesable por la aplicación.
+
+---
 
 ## 🖼️ Interfaz
 
