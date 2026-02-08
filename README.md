@@ -29,7 +29,8 @@ El proyecto está diseñado como una herramienta **robusta para uso real**, con 
   * Frecuencia de muestreo
   * Canales (Mono / Stereo)
   * Profundidad de bits
-  * Formato de salida
+  * Formato de salida (WAV, MP3, FLAC)
+* 📂 **Selección de carpeta de salida:** Guarda los archivos convertidos en la misma ubicación que el original por defecto, o elige una carpeta personalizada.
 * 🎧 Formatos soportados:
 
   * WAV
@@ -37,12 +38,14 @@ El proyecto está diseñado como una herramienta **robusta para uso real**, con 
   * FLAC
 * 🧠 Arquitectura desacoplada (UI / Core / Runner)
 * 🖥️ Interfaz moderna y clara (WinForms personalizado)
+* ✨ **Soporte High-DPI:** Escalado nítido en pantallas de alta resolución para una experiencia visual óptima.
+* 🚨 **Manejo de Errores Robustos:** Genera un 'crashlog.txt' para depuración y muestra mensajes amigables en caso de errores críticos.
 * 📦 FFmpeg **embebido** (no requiere instalación externa)
 
 ---
 📥 Formatos de entrada soportados 
 
-El convertidor admite una amplia variedad de formatos de audio y video como entrada, gracias al uso del motor FFmpeg. A continuación, se presenta una lista representativa de los formatos más comunes compatibles.
+El convertidor admite una amplia variedad de formatos de audio y **video (para extracción de audio)** como entrada, gracias al uso del motor FFmpeg. A continuación, se presenta una lista representativa de los formatos más comunes compatibles.
 
 🎧 Formatos de audio (entrada)
 
