@@ -196,7 +196,7 @@ Esto garantiza una barra de progreso **precisa y confiable**.
 
 ### Opción 1: Ejecutable
 
-Descarga el ejecutable desde la sección **Releases** del repositorio:
+Descarga el ejecutable desde la sección **Releases** del repositorio: https://github.com/Pablitus666/Audio-Converter/releases
 
 1. Descarga el `.zip`
 2. Extrae el contenido
