@@ -6,6 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.pfx
+*.exe
 
 # Ignore Rider files
 .idea/
